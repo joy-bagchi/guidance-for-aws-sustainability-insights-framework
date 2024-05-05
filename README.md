@@ -29,7 +29,7 @@ Key benefits include:
 ## First steps
 
 - For deployment instructions, refer to the [deployment walkthrough](docs/deployment/cli_walkthrough.md).
-- After deployment, consult the [end to end walkthrough](docs/cli_walkthrough.md).
+- After deployment, consult the [end to end walkthrough](docs/walkthrough.md).
 
 ## Deeper dive
 
@@ -43,7 +43,7 @@ Key benefits include:
 	- [Pipeline Processors](./typescript/packages/apps/pipeline-processors/README.md)
 - Interested in understanding more about different connectors supported by SIF? Explore their specific overviews:
   - [AWS Clean Rooms Connector](typescript/packages/connectors/clean-rooms/README.md)
-  - [AWS DataZone Connector](typescript/packages/connectors/datazone/README.md)
+  - [AWS DataZone Connector](typescript/packages/connectors/data-fabric/README.md)
   - [Amazon Kinesis Connector](typescript/packages/connectors/kinesis/README.md)
 - Planning to deploy SIF in production? Review the [path to production](docs/deployment/path_to_production.md).
 
